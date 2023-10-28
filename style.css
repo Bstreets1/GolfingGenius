@@ -1,0 +1,22 @@
+@import url(https://fonts.google.com/specimen/Playpen+Sans);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Playpen+Sans', sans-serif;
+}
+
+body {
+    background: #081b29;
+}
+
+.haeder {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: yellowgreen;
+    
+}
