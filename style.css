@@ -20,12 +20,10 @@ body {
     background: transparent;
     display: flex;
     align-items: center;
-    z-index: 100;
-    
+    z-index: 100;   
 }
 
 .logo {
-
   font-size: 25px;
   color: #fff;
   text-decoration: none;
