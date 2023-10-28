@@ -1,10 +1,10 @@
 @import url('https://fonts.google.com/specimen/Poppins?query=po&safe=active');
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
 }
 
 .header {
@@ -21,22 +21,22 @@
 }
 
 .logo {
-    font-size: 25px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: 500;
-    margin-left: 35px;
+font-size: 25px;
+color: #fff;
+text-decoration: none;
+font-weight: 500;
+margin-left: 35px;
 }
 
 .navbar a {
-   font-size: 18px;
-   color: #fff;
-   text-decoration: none;
-   font-weight: 500;
-   margin-left: 35px;
-   transition: .3s;  
+font-size: 18px;
+color: #fff;
+text-decoration: none;
+font-weight: 500;
+margin-left: 35px;
+transition: .3s;  
 }
 
 .navbar a:hover {
-    color: #0ef;
+color: #0ef;
 }
